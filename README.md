@@ -2,4 +2,4 @@
 
 The first git tutorial project
 <br>
-Author - Dhruvin Sojitra
+Author - Dhruvin (Hochschule Hof)
